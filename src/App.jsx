@@ -1,10 +1,13 @@
 import React from 'react'
 import SkoteApp from './Dash'
+import ChaatCorner from './Viru'
+
 
 const App = () => {
   return (
     <div>
-      <SkoteApp/>
+      {/* <SkoteApp/> */}
+      <ChaatCorner/>
     </div>
   )
 }
