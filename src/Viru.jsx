@@ -500,7 +500,7 @@ export default function ChaatCorner() {
         <div className="container mx-auto px-4">
           <div className="text-center">
             <div className="text-4xl mb-4">🌶️</div>
-            <h3 className="text-2xl font-bold mb-2">VIRUZ SNACKS</h3>
+            <h3 className="text-2xl font-bold mb-2">VIRUZZ SNACKS</h3>
             <p className="text-gray-400 mb-6">Bringing Mumbai streets to your plate</p>
             <div className="flex justify-center space-x-6 mb-6">
               <a href="https://instagram.com/viruzzsnacks" className="hover:text-orange-400 transition-colors">
